@@ -7,3 +7,23 @@
 
 ### task --任务
 ![任务图片](http://i.imgur.com/9JYOci6.jpg)
+
+### 知识点收集
+* html元素标签
+
+	https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element
+
+	[MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
+
+* 命名字符参考 
+	* &gt; 表示大于符号">" (>)
+	* &lt; 表示小于符号"<" (<)
+	* &amp; 表示和符号"and"(&)
+	* &quot; 表示引用符号" (")
+	* 其它实体符号：[点击这里查看](https://www.w3.org/TR/2011/WD-html5-20110113/named-character-references.html)
+
+* HTML注释
+```html
+	<!--这是HTML注释-->
+```
+
